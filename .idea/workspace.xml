@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a13adab4-fca7-49e0-9944-48d4752f3093" name="Default Changelist" comment="" />
+    <list default="true" id="a13adab4-fca7-49e0-9944-48d4752f3093" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/song.py" beforeDir="false" afterPath="$PROJECT_DIR$/songs.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,10 +38,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../calculator" />
   </component>
   <component name="RunManager">
-    <configuration name="song" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="songs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Albums" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -41,7 +53,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/song.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/songs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -52,29 +64,72 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.song" />
+        <item itemvalue="Python.songs" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="2000" height="188" key="GridCell.Tab.0.bottom" timestamp="1589272979192">
+    <state x="754" y="260" width="530" height="598" key="FileChooserDialogImpl" timestamp="1589315653687">
       <screen x="0" y="34" width="2048" height="1053" />
     </state>
-    <state width="2000" height="188" key="GridCell.Tab.0.bottom/0.34.2048.1053@0.34.2048.1053" timestamp="1589272979192" />
-    <state width="2000" height="188" key="GridCell.Tab.0.center" timestamp="1589272979192">
+    <state x="754" y="260" width="530" height="598" key="FileChooserDialogImpl/0.34.2048.1053@0.34.2048.1053" timestamp="1589315653687" />
+    <state width="2020" height="316" key="GridCell.Tab.0.bottom" timestamp="1589356779593">
       <screen x="0" y="34" width="2048" height="1053" />
     </state>
-    <state width="2000" height="188" key="GridCell.Tab.0.center/0.34.2048.1053@0.34.2048.1053" timestamp="1589272979192" />
-    <state width="2000" height="188" key="GridCell.Tab.0.left" timestamp="1589272979191">
+    <state width="2020" height="316" key="GridCell.Tab.0.bottom/0.34.2048.1053@0.34.2048.1053" timestamp="1589356779593" />
+    <state width="2020" height="316" key="GridCell.Tab.0.center" timestamp="1589356779593">
       <screen x="0" y="34" width="2048" height="1053" />
     </state>
-    <state width="2000" height="188" key="GridCell.Tab.0.left/0.34.2048.1053@0.34.2048.1053" timestamp="1589272979191" />
-    <state width="2000" height="188" key="GridCell.Tab.0.right" timestamp="1589272979192">
+    <state width="2020" height="316" key="GridCell.Tab.0.center/0.34.2048.1053@0.34.2048.1053" timestamp="1589356779593" />
+    <state width="2020" height="316" key="GridCell.Tab.0.left" timestamp="1589356779593">
       <screen x="0" y="34" width="2048" height="1053" />
     </state>
-    <state width="2000" height="188" key="GridCell.Tab.0.right/0.34.2048.1053@0.34.2048.1053" timestamp="1589272979192" />
+    <state width="2020" height="316" key="GridCell.Tab.0.left/0.34.2048.1053@0.34.2048.1053" timestamp="1589356779593" />
+    <state width="2020" height="316" key="GridCell.Tab.0.right" timestamp="1589356779593">
+      <screen x="0" y="34" width="2048" height="1053" />
+    </state>
+    <state width="2020" height="316" key="GridCell.Tab.0.right/0.34.2048.1053@0.34.2048.1053" timestamp="1589356779593" />
+    <state width="2020" height="342" key="GridCell.Tab.1.bottom" timestamp="1589354274609">
+      <screen x="0" y="34" width="2048" height="1053" />
+    </state>
+    <state width="2020" height="342" key="GridCell.Tab.1.bottom/0.34.2048.1053@0.34.2048.1053" timestamp="1589354274609" />
+    <state width="2020" height="342" key="GridCell.Tab.1.center" timestamp="1589354274608">
+      <screen x="0" y="34" width="2048" height="1053" />
+    </state>
+    <state width="2020" height="342" key="GridCell.Tab.1.center/0.34.2048.1053@0.34.2048.1053" timestamp="1589354274608" />
+    <state width="2020" height="342" key="GridCell.Tab.1.left" timestamp="1589354274608">
+      <screen x="0" y="34" width="2048" height="1053" />
+    </state>
+    <state width="2020" height="342" key="GridCell.Tab.1.left/0.34.2048.1053@0.34.2048.1053" timestamp="1589354274608" />
+    <state width="2020" height="342" key="GridCell.Tab.1.right" timestamp="1589354274608">
+      <screen x="0" y="34" width="2048" height="1053" />
+    </state>
+    <state width="2020" height="342" key="GridCell.Tab.1.right/0.34.2048.1053@0.34.2048.1053" timestamp="1589354274608" />
+    <state x="460" y="238" width="1117" height="643" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1589351691744">
+      <screen x="0" y="34" width="2048" height="1053" />
+    </state>
+    <state x="460" y="238" width="1117" height="643" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.34.2048.1053@0.34.2048.1053" timestamp="1589351691744" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-defaults>
+        <breakpoint type="python-line" />
+      </breakpoints-defaults>
+    </breakpoint-manager>
   </component>
 </project>
