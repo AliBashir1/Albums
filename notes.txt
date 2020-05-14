@@ -1,0 +1,6 @@
+Notes to self:
+if data needed to check for duplication or for anything reason
+Sort the data in file rather than after loading into program.
+help the program run faster.
+
+look for compare file features in pycharm

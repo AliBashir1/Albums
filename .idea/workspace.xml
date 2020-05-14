@@ -7,12 +7,20 @@
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a13adab4-fca7-49e0-9944-48d4752f3093" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/check_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/song.py" beforeDir="false" afterPath="$PROJECT_DIR$/songs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/songs.py" beforeDir="false" afterPath="$PROJECT_DIR$/songs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +84,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -84,26 +104,34 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="661" y="344" width="715" height="431" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589360032082">
+      <screen x="0" y="34" width="2048" height="1053" />
+    </state>
+    <state x="661" y="344" width="715" height="431" key="#com.intellij.fileTypes.FileTypeChooser/0.34.2048.1053@0.34.2048.1053" timestamp="1589360032082" />
+    <state x="691" y="250" width="655" height="619" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589441848480">
+      <screen x="0" y="34" width="2048" height="1053" />
+    </state>
+    <state x="691" y="250" width="655" height="619" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.34.2048.1053@0.34.2048.1053" timestamp="1589441848480" />
     <state x="754" y="260" width="530" height="598" key="FileChooserDialogImpl" timestamp="1589315653687">
       <screen x="0" y="34" width="2048" height="1053" />
     </state>
     <state x="754" y="260" width="530" height="598" key="FileChooserDialogImpl/0.34.2048.1053@0.34.2048.1053" timestamp="1589315653687" />
-    <state width="2020" height="316" key="GridCell.Tab.0.bottom" timestamp="1589356779593">
+    <state width="2020" height="316" key="GridCell.Tab.0.bottom" timestamp="1589445354720">
       <screen x="0" y="34" width="2048" height="1053" />
     </state>
-    <state width="2020" height="316" key="GridCell.Tab.0.bottom/0.34.2048.1053@0.34.2048.1053" timestamp="1589356779593" />
-    <state width="2020" height="316" key="GridCell.Tab.0.center" timestamp="1589356779593">
+    <state width="2020" height="316" key="GridCell.Tab.0.bottom/0.34.2048.1053@0.34.2048.1053" timestamp="1589445354720" />
+    <state width="2020" height="316" key="GridCell.Tab.0.center" timestamp="1589445354719">
       <screen x="0" y="34" width="2048" height="1053" />
     </state>
-    <state width="2020" height="316" key="GridCell.Tab.0.center/0.34.2048.1053@0.34.2048.1053" timestamp="1589356779593" />
-    <state width="2020" height="316" key="GridCell.Tab.0.left" timestamp="1589356779593">
+    <state width="2020" height="316" key="GridCell.Tab.0.center/0.34.2048.1053@0.34.2048.1053" timestamp="1589445354719" />
+    <state width="2020" height="316" key="GridCell.Tab.0.left" timestamp="1589445354717">
       <screen x="0" y="34" width="2048" height="1053" />
     </state>
-    <state width="2020" height="316" key="GridCell.Tab.0.left/0.34.2048.1053@0.34.2048.1053" timestamp="1589356779593" />
-    <state width="2020" height="316" key="GridCell.Tab.0.right" timestamp="1589356779593">
+    <state width="2020" height="316" key="GridCell.Tab.0.left/0.34.2048.1053@0.34.2048.1053" timestamp="1589445354717" />
+    <state width="2020" height="316" key="GridCell.Tab.0.right" timestamp="1589445354719">
       <screen x="0" y="34" width="2048" height="1053" />
     </state>
-    <state width="2020" height="316" key="GridCell.Tab.0.right/0.34.2048.1053@0.34.2048.1053" timestamp="1589356779593" />
+    <state width="2020" height="316" key="GridCell.Tab.0.right/0.34.2048.1053@0.34.2048.1053" timestamp="1589445354719" />
     <state width="2020" height="342" key="GridCell.Tab.1.bottom" timestamp="1589354274609">
       <screen x="0" y="34" width="2048" height="1053" />
     </state>
